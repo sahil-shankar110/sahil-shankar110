@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil Shankar</h1>
 <h3 align="center">A passionate AIML Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-shankar110&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-shankar110" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-shankar110" alt="sahil-shankar110" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence in MUET**
+
+- 💬 Ask me about **### 💬 Ask me about - Machine Learning (Python, NumPy, Pandas, Matplotlib) - Data Analysis & Visualization - MySQL Database Projects - Java Projects (like my Train Ticket Booking System) - Freelancing & Learning Journey**
+
+- 📫 How to reach me **www.linkedin.com/in/sahil-shankar-974135334**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-shankar110&show_icons=true&locale=en" alt="sahil-shankar110" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-shankar110&" alt="sahil-shankar110" /></p>
-
