@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence in MUET**
 
-- 💬 Ask me about **### 💬 Ask me about - Machine Learning (Python, NumPy, Pandas, Matplotlib) - Data Analysis & Visualization - MySQL Database Projects - Java Projects (like my Train Ticket Booking System) - Freelancing & Learning Journey**
+- 💬 Ask me about **- Machine Learning (Python, NumPy, Pandas, Matplotlib) - Data Analysis & Visualization - MySQL Database Projects - Java Projects (like my Train Ticket Booking System) - Freelancing & Learning Journey**
 
 - 📫 How to reach me **www.linkedin.com/in/sahil-shankar-974135334**
 
