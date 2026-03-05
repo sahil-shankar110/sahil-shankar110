@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Solutions;Machine+Learning+Models;Generative+AI+Applications;Data+Driven+AI&center=true&width=500&height=45">
 </p>
-___________________
+
 
 # 💫 About Me:
 AI Engineer working on Machine Learning, Generative AI, and AI Agents.
