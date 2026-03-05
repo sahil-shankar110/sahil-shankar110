@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Shankar</h1>
 <h3 align="center">AI/ML Engineer creating intelligent Machine Learning & Generative AI systems</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Solutions;Machine+Learning+Models;Generative+AI+Applications;Data+Driven+AI&center=true&width=500&height=45">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Delivering+AI+Solutions;Designing+ML+Models;Building+Generative+AI;Optimizing+AI+Systems&center=true&width=500&height=45">
 </p>
 
 # 💫 About Me:
@@ -10,7 +11,7 @@ Developing real-world AI applications including predictive models, automation sy
 Proficient in Python, Data Science, and AI development, focused on building scalable and impactful AI systems.
 
 
-## 🌐 🌐 Connect With ME:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sahil-shankar-974135334) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/sahilshankar700)
 
@@ -21,10 +22,4 @@ Proficient in Python, Data Science, and AI development, focused on building scal
 ![](https://nirzak-streak-stats.vercel.app/?user=sahil-shankar110&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-shankar110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahil-shankar110&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=sahil-shankar110&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">⭐ Exploring AI. Creating Intelligent Systems.</p>
