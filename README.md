@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Shankar</h1>
-<h3 align="center">AI/ML Engineer creating intelligent Machine Learning & Generative AI systems</h3>
+<h3 align="center">AI/ML Engineer | Creating Intelligent Machine Learning & Generative AI Systems</h3>
 <p align="center">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Delivering+AI+Solutions;Designing+ML+Models;Building+Generative+AI;Optimizing+AI+Systems&center=true&width=500&height=45">
