@@ -12,7 +12,7 @@ Proficient in Python, Data Science, and AI development, focused on building scal
 
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sahil-shankar-974135334) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-shankar-974135334)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/sahilshankar700)
 
 # 💻 Tech Stack:
